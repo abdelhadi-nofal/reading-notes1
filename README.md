@@ -16,12 +16,12 @@
 4. [ACP](ACP)  
 
 
-| Table Of Content      | Description                |
-| --------------------- | -----------                |
-| Markdown              | [Markdown](Markdown)       |
-| git                   | [git](git)                 |
-| github                | [github](github)           |   
-| ACP                   | [ACP](ACP)                 |
-| growth mindset        | [growth mindset](growth mindset)                |
+| Table Of Content      | Description                           |
+| --------------------- | -----------                           |
+| Markdown              | [Markdown](Markdown)                  |
+| git                   | [git](git)                            |
+| github                | [github](github)                      |   
+| ACP                   | [ACP](ACP)                            |
+| growth mindset        | [growth mindset](growth mindset)      |
 ***
 
