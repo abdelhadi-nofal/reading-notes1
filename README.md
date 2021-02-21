@@ -3,7 +3,7 @@
 ### we have learnd new topis in this class such as:
 
 1. [Markdown](Markdown)
-2. git 
+2. [git](git) 
 3. [github](github)
 4. ACP
 
