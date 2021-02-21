@@ -4,6 +4,7 @@
 
  Heloo everybody my name is abdelhadi nofal this my first website 
  ilearnd to create by git pages and this my profile on git hub : [My Profile](https://abdelhadi-nofal.github.io/reading-notes/.)
+ ***
 ### we have learnd new topis in this class such as:
 
 1. [Markdown](Markdown)
@@ -11,6 +12,7 @@
 3. [github](github)
 4. [ACP](ACP)  
 
+***
 ## How you can benefit from a growth mindset
  The growth mindset can open pathways to more creativity and possibility, and enable the setting of higher goals and more achievement.
 
@@ -18,6 +20,7 @@
 
 Why? The aptly named growth mindset helps us grow in whatever we pursue – especially in our work. When we’re growing, we’re more productive. And when I’m productive, I feel better. And you can, too.
 
+***
 ## Ways to Develop a Growth Mindset
 
 1. Acknowledge and embrace imperfections.
