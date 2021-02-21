@@ -5,7 +5,7 @@
  Heloo everybody my name is abdelhadi nofal this my first website 
  ilearnd to create by git pages and this my profile on git hub : [My Profile](https://github.com/abdelhadi-nofal)
  ***
-### we have learnd new topis in this class such as:
+### we have learnd new topics in this class such as:
 
 1. [Markdown](Markdown)
 2. [git](git) 
