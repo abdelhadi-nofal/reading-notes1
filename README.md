@@ -22,5 +22,5 @@
 | git                   | [git](git)                            |
 | github                | [github](github)                      |   
 | ACP                   | [ACP](ACP)                            |
-| growth_mindset        | [growth_mindset](growth_mindsett)     |
+| growth_mindset        | [growth_mindset](growth_mindset)     |
 
