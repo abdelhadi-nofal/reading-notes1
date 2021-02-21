@@ -3,7 +3,7 @@
 ![](http://news.efinancialcareers.com/binaries/content/gallery/efinancial-careers/articles/2019/03/programmer.jpg)
 
  Heloo everybody my name is abdelhadi nofal this my first website 
- ilearnd to create by git pages and this my profile on git hub : https://github.com/abdelhadi-nofal
+ ilearnd to create by git pages and this my profile on git hub : [My Profile](https://abdelhadi-nofal.github.io/reading-notes/.)
 ### we have learnd new topis in this class such as:
 
 1. [Markdown](Markdown)
