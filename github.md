@@ -1,5 +1,4 @@
-# What Is Git?
+# GitHub
 
-#### Git is a specific open-source version control system created by Linus Torvalds in 2005.
+#### GitHub,  is a provider of Internet hosting for software development and version control using Git. It offers the distributed version control and source code management (SCM) functionality of Git, plus its own features. It provides access control and several collaboration features such as bug tracking, feature requests, task management, continuous integration and wikis for every project. Headquartered in California, it has been a subsidiary of Microsoft since 2018.
 
-Specifically, Git is a distributed version control system, which means that the entire codebase and history is available on every developer’s computer, which allows for easy branching and merging.
