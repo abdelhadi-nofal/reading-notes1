@@ -23,5 +23,5 @@
 | github                | [github](github)                      |   
 | ACP                   | [ACP](ACP)                            |
 | growth_mindset        | [growth_mindset](growth_mindset)      |
-| Design                | [Design](Design)                      |
+| Design                | [Design](design)                      |
 | css&color             | [css&color](css&color)                |
