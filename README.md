@@ -16,20 +16,12 @@
 4. [ACP](ACP)  
 
 
-| Table Of Content                    | Description           |
-| ---------------------               | -----------           |
-| reading_assignment_no1              | LINK                  |
-| reading_assignment_no2              | LINK                  |
-| reading_assignment_no3              | LINK                  |   
-| reading_assignment_no4              | LINK                  |
-| reading_assignment_no5              | LINK                  |
-| reading_assignment_no6              | LINK                  |
-| reading_assignment_no7              | LINK                  |
-| reading_assignment_no8              | LINK                  |
-| reading_assignment_no9              | LINK                  |
-| reading_assignment_no10             | LINK                  |   
-| reading_assignment_no11             | LINK                  |
-| reading_assignment_no12             | LINK                  |
-| reading_assignment_no13             | LINK                  |
-| reading_assignment_no14             | LINK                  |
-| reading_assignment_no15             | LINK                  |
+| Table Of Content      | Description                           |
+| --------------------- | -----------                           |
+| Markdown              | [Markdown](Markdown)                  |
+| git                   | [git](git)                            |
+| github                | [github](github)                      |   
+| ACP                   | [ACP](ACP)                            |
+| growth_mindset        | [growth_mindset](growth_mindset)      |
+| Design                | [Design](design)                      |
+| css&color             | [css&color](css&color)                |
